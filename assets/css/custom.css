@@ -1,3 +1,7 @@
 .post-description {
 	font-size: larger;
 }
+
+.post-description img {
+	width: 100%;
+}
